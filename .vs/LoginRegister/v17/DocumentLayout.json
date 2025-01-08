@@ -1,0 +1,177 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\LoginRegister\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\source\\repos\\LoginRegister\\LoginRegister\\Migrations\\20250108083416_asdfd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LoginRegister\\Migrations\\20250108083416_asdfd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A72EDCA8-61E4-4AEE-8308-66B808499B94}|LoginRegister\\LoginRegister.csproj|c:\\users\\user\\source\\repos\\loginregister\\loginregister\\components\\pages\\account\\register.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A72EDCA8-61E4-4AEE-8308-66B808499B94}|LoginRegister\\LoginRegister.csproj|solutionrelative:loginregister\\components\\pages\\account\\register.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A72EDCA8-61E4-4AEE-8308-66B808499B94}|LoginRegister\\LoginRegister.csproj|c:\\users\\user\\source\\repos\\loginregister\\loginregister\\models\\viewmodels\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A72EDCA8-61E4-4AEE-8308-66B808499B94}|LoginRegister\\LoginRegister.csproj|solutionrelative:loginregister\\models\\viewmodels\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A72EDCA8-61E4-4AEE-8308-66B808499B94}|LoginRegister\\LoginRegister.csproj|c:\\users\\user\\source\\repos\\loginregister\\loginregister\\components\\pages\\account\\logout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A72EDCA8-61E4-4AEE-8308-66B808499B94}|LoginRegister\\LoginRegister.csproj|solutionrelative:loginregister\\components\\pages\\account\\logout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A72EDCA8-61E4-4AEE-8308-66B808499B94}|LoginRegister\\LoginRegister.csproj|c:\\users\\user\\source\\repos\\loginregister\\loginregister\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A72EDCA8-61E4-4AEE-8308-66B808499B94}|LoginRegister\\LoginRegister.csproj|solutionrelative:loginregister\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A72EDCA8-61E4-4AEE-8308-66B808499B94}|LoginRegister\\LoginRegister.csproj|c:\\users\\user\\source\\repos\\loginregister\\loginregister\\models\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A72EDCA8-61E4-4AEE-8308-66B808499B94}|LoginRegister\\LoginRegister.csproj|solutionrelative:loginregister\\models\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A72EDCA8-61E4-4AEE-8308-66B808499B94}|LoginRegister\\LoginRegister.csproj|c:\\users\\user\\source\\repos\\loginregister\\loginregister\\components\\pages\\account\\login.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A72EDCA8-61E4-4AEE-8308-66B808499B94}|LoginRegister\\LoginRegister.csproj|solutionrelative:loginregister\\components\\pages\\account\\login.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A72EDCA8-61E4-4AEE-8308-66B808499B94}|LoginRegister\\LoginRegister.csproj|c:\\users\\user\\source\\repos\\loginregister\\loginregister\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A72EDCA8-61E4-4AEE-8308-66B808499B94}|LoginRegister\\LoginRegister.csproj|solutionrelative:loginregister\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A72EDCA8-61E4-4AEE-8308-66B808499B94}|LoginRegister\\LoginRegister.csproj|c:\\users\\user\\source\\repos\\loginregister\\loginregister\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A72EDCA8-61E4-4AEE-8308-66B808499B94}|LoginRegister\\LoginRegister.csproj|solutionrelative:loginregister\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20250108083416_asdfd.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\LoginRegister\\LoginRegister\\Migrations\\20250108083416_asdfd.cs",
+              "RelativeDocumentMoniker": "LoginRegister\\Migrations\\20250108083416_asdfd.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\LoginRegister\\LoginRegister\\Migrations\\20250108083416_asdfd.cs",
+              "RelativeToolTip": "LoginRegister\\Migrations\\20250108083416_asdfd.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T08:34:16.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RegisterViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\LoginRegister\\LoginRegister\\Models\\ViewModels\\RegisterViewModel.cs",
+              "RelativeDocumentMoniker": "LoginRegister\\Models\\ViewModels\\RegisterViewModel.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\LoginRegister\\LoginRegister\\Models\\ViewModels\\RegisterViewModel.cs",
+              "RelativeToolTip": "LoginRegister\\Models\\ViewModels\\RegisterViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T08:33:45.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\LoginRegister\\LoginRegister\\Components\\_Imports.razor",
+              "RelativeDocumentMoniker": "LoginRegister\\Components\\_Imports.razor",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\LoginRegister\\LoginRegister\\Components\\_Imports.razor",
+              "RelativeToolTip": "LoginRegister\\Components\\_Imports.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-08T08:31:49.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DatabaseContext.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\LoginRegister\\LoginRegister\\Models\\DatabaseContext.cs",
+              "RelativeDocumentMoniker": "LoginRegister\\Models\\DatabaseContext.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\LoginRegister\\LoginRegister\\Models\\DatabaseContext.cs",
+              "RelativeToolTip": "LoginRegister\\Models\\DatabaseContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T08:31:43.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Register.razor",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\LoginRegister\\LoginRegister\\Components\\Pages\\Account\\Register.razor",
+              "RelativeDocumentMoniker": "LoginRegister\\Components\\Pages\\Account\\Register.razor",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\LoginRegister\\LoginRegister\\Components\\Pages\\Account\\Register.razor",
+              "RelativeToolTip": "LoginRegister\\Components\\Pages\\Account\\Register.razor",
+              "ViewState": "AgIAACwAAAAAAAAAAAAMwEAAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-08T08:31:32.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Logout.razor",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\LoginRegister\\LoginRegister\\Components\\Pages\\Account\\Logout.razor",
+              "RelativeDocumentMoniker": "LoginRegister\\Components\\Pages\\Account\\Logout.razor",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\LoginRegister\\LoginRegister\\Components\\Pages\\Account\\Logout.razor",
+              "RelativeToolTip": "LoginRegister\\Components\\Pages\\Account\\Logout.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-08T08:30:59.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Login.razor",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\LoginRegister\\LoginRegister\\Components\\Pages\\Account\\Login.razor",
+              "RelativeDocumentMoniker": "LoginRegister\\Components\\Pages\\Account\\Login.razor",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\LoginRegister\\LoginRegister\\Components\\Pages\\Account\\Login.razor",
+              "RelativeToolTip": "LoginRegister\\Components\\Pages\\Account\\Login.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-08T08:30:26.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\LoginRegister\\LoginRegister\\appsettings.json",
+              "RelativeDocumentMoniker": "LoginRegister\\appsettings.json",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\LoginRegister\\LoginRegister\\appsettings.json",
+              "RelativeToolTip": "LoginRegister\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-08T08:28:35.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "App.razor",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\LoginRegister\\LoginRegister\\Components\\App.razor",
+              "RelativeDocumentMoniker": "LoginRegister\\Components\\App.razor",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\LoginRegister\\LoginRegister\\Components\\App.razor",
+              "RelativeToolTip": "LoginRegister\\Components\\App.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-08T08:19:37.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
